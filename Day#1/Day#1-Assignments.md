@@ -59,10 +59,12 @@
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
 - Netflix(Hosted on AWS)
-- Logo:![image](https://github.com/user-attachments/assets/eab8bae2-3217-4676-8437-44ac5901cbaa)
+- Logo:![image] ![image](https://github.com/user-attachments/assets/08fba6c4-b9e6-47cc-b895-5f1a5e528240)
+
 - Details:Netflix uses AWS to stream content globally, offering scalability, large data handling, and high availability with minimal downtime.
 - snapchat (Hosted on GCP)
-- logo: ![image](https://github.com/user-attachments/assets/fae13b78-1ff4-4424-b999-e5694d3d1467)
+- logo: ![image]![image](https://github.com/user-attachments/assets/a70f5b5a-00b9-4985-a680-1e4fa2304218)
+
 - details:Snapchat uses Google Cloud for real-time delivery of photos and videos, offering scalability for its ephemeral messaging features.
 
 
