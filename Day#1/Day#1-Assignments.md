@@ -54,12 +54,12 @@
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - For example:
 - Amazon Prime (Hosted on AWS)
-  - Logo: ![image](https://github.com/user-attachments/assets/a772912f-a457-491a-9bb5-1435cce7b51a)
+  - Logo:(https://github.com/user-attachments/assets/a772912f-a457-491a-9bb5-1435cce7b51a)
 
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
 - Netflix(Hosted on AWS)
-- Logo:![image] ![image](https://github.com/user-attachments/assets/08fba6c4-b9e6-47cc-b895-5f1a5e528240)
+- Logo:(https://github.com/user-attachments/assets/08fba6c4-b9e6-47cc-b895-5f1a5e528240)
 
 - Details:Netflix uses AWS to stream content globally, offering scalability, large data handling, and high availability with minimal downtime.
 - snapchat (Hosted on GCP)
