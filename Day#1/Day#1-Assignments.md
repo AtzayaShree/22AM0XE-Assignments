@@ -24,9 +24,8 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
-> - Completion Badge
-> - Completion Screenshot	
+> - Completion Badge![Screenshot 2024-10-21 140825](https://github.com/user-attachments/assets/2f935edf-cb82-4ebb-93d2-c867514ec6f3)
+> - Completion Screenshot![Screenshot 2024-10-21 140853](https://github.com/user-attachments/assets/7f8b31df-745a-4c28-aac6-2909e436805e)
 
 ***
 
