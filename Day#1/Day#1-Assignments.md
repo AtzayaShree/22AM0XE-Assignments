@@ -30,26 +30,31 @@
 ***
 
 #### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
-> Add your answer here!
-
+![Screenshot 2024-10-21 161043](https://github.com/user-attachments/assets/e335a956-243a-4fc8-8e5c-9ddb2e6f27d8)
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
-> Add your answer here!
-> - Create a new Google Colab notebook.
-> - Write Python code to print "Hello, World!" in the notebook.
-> - Import the NumPy library and create a 2x2 matrix, then print it.
-> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
-
+> - Create a new Google Colab notebook.![Screenshot 2024-10-23 191712](https://github.com/user-attachments/assets/4d8d4736-b301-4228-be66-a63cd0ca7ace)
+> - Write Python code to print "Hello, World!" in the notebook.![Screenshot 2024-10-23 191922](https://github.com/user-attachments/assets/31d16360-317a-4ec7-b2b9-ce05917e6a67)
+> - Import the NumPy library and create a 2x2 matrix, then print it.![Screenshot 2024-10-23 192027](https://github.com/user-attachments/assets/c43f3fca-1341-4699-a1b9-5fcee2b39ccb)
+> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.![Screenshot 2024-10-23 193947](https://github.com/user-attachments/assets/c76caed3-a349-465c-bd0c-4dcace99afd1)
 ***
 
 #### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
 - For example:
 - Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
+  - Logo:![image](https://github.com/user-attachments/assets/9348f573-8286-4255-bd0f-b044de0e943a)
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+ Pinterest (Hosted on AWS)
+ logo:![image]![image]![image](https://github.com/user-attachments/assets/b2ee7f25-c099-4e13-9831-7c47b7132ef5)
+ details: Pinterest is a social media platform that allows users to discover and save creative ideas on boards, ranging from DIY projects to fashion inspiration. Hosted on   AWS, Pinterest relies on the cloud to manage its vast collection of images, user interactions, and personalized recommendations.
+
+ Snapchat(Hosted on google cloud)
+ logo:![image](https://github.com/user-attachments/assets/eafd26c4-4dad-459f-82c2-f46c54a683ea)
+ Details: Snapchat is a multimedia messaging app that allows users to send photos, videos, and chat messages that disappear after being viewed. The platform is powered by    Google Cloud, which provides high-performance infrastructure and analytics for managing its massive user base and real-time content processing.
+
+
 
 ***
 
