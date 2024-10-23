@@ -71,16 +71,15 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
+Done
 
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
+https://github.com/AtzayaShree/22AM0XE-Assignments.wiki.git
 
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
-
+(https://www.linkedin.com/posts/atzaya-shree-s-p-1709a52a1_machinelearning-cloudservices-aws-activity-7254887736992518144-vfN-?utm_source=share&utm_medium=member_desktop)
 ***
