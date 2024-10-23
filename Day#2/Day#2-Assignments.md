@@ -71,7 +71,6 @@
 ***
 
 #### #7 Commit the code to the Github Repo. The repo should be a public one. And raise a PR to this repo: https://github.com/SanthoshNC/22AM0XE-Assignments
-Done
 
 ***
 
