@@ -53,17 +53,13 @@
  Snapchat(Hosted on google cloud)
  logo:![image](https://github.com/user-attachments/assets/eafd26c4-4dad-459f-82c2-f46c54a683ea)
  Details: Snapchat is a multimedia messaging app that allows users to send photos, videos, and chat messages that disappear after being viewed. The platform is powered by    Google Cloud, which provides high-performance infrastructure and analytics for managing its massive user base and real-time content processing.
-
-
-
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
-
+![Screenshot 2024-10-23 195212](https://github.com/user-attachments/assets/b77e1711-3a70-48a8-82b8-3d70acb89f37)
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+![Screenshot 2024-10-23 200148](https://github.com/user-attachments/assets/7b464652-9c5c-4aa5-ac35-245748b0c616)
 
 ***
