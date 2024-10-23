@@ -48,11 +48,17 @@
 
  Pinterest (Hosted on AWS)
  logo:![image]![image]![image](https://github.com/user-attachments/assets/b2ee7f25-c099-4e13-9831-7c47b7132ef5)
- details: Pinterest is a social media platform that allows users to discover and save creative ideas on boards, ranging from DIY projects to fashion inspiration. Hosted on   AWS, Pinterest relies on the cloud to manage its vast collection of images, user interactions, and personalized recommendations.
+ 
+ details: Pinterest is a social media platform that allows users to discover and save creative ideas on boards, ranging
+ from DIY projects to fashion inspiration. Hosted on   AWS, Pinterest relies on the cloud to manage its vast collection of 
+ images, user interactions, and personalized recommendations.
 
  Snapchat(Hosted on google cloud)
  logo:![image](https://github.com/user-attachments/assets/eafd26c4-4dad-459f-82c2-f46c54a683ea)
- Details: Snapchat is a multimedia messaging app that allows users to send photos, videos, and chat messages that disappear after being viewed. The platform is powered by    Google Cloud, which provides high-performance infrastructure and analytics for managing its massive user base and real-time content processing.
+ 
+ Details: Snapchat is a multimedia messaging app that allows users to send photos, videos, and chat messages that disappear 
+ after being viewed. The platform is powered by    Google Cloud, which provides high-performance infrastructure and 
+ analytics for managing its massive user base and real-time content processing.
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
