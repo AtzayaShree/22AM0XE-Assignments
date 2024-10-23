@@ -34,6 +34,7 @@
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
+https://colab.research.google.com/drive/1bH7-K4jS-5fWZTqCku_ZzyfiJqd16AnV?usp=drive_link
 > - Create a new Google Colab notebook.![Screenshot 2024-10-23 191712](https://github.com/user-attachments/assets/4d8d4736-b301-4228-be66-a63cd0ca7ace)
 > - Write Python code to print "Hello, World!" in the notebook.![Screenshot 2024-10-23 191922](https://github.com/user-attachments/assets/31d16360-317a-4ec7-b2b9-ce05917e6a67)
 > - Import the NumPy library and create a 2x2 matrix, then print it.![Screenshot 2024-10-23 192027](https://github.com/user-attachments/assets/c43f3fca-1341-4699-a1b9-5fcee2b39ccb)
